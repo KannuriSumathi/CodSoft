@@ -1,0 +1,13 @@
+1. NumberGuessing
+A simple Java-based console game where the player attempts to guess a randomly generated number within a given range. The game provides real-time feedback indicating whether the guessed number is too high or too low. The game continues until the player guesses the correct number, and the number of attempts taken is tracked.
+Key Features:
+Random number generation within a specified range.
+Provides feedback on each guess (too high, too low).
+Tracks the number of attempts taken to guess correctly.
+2. OnlineExam
+A Java-based online exam platform that allows users to take multiple-choice quizzes with a timer. The platform enables real-time assessment, displaying immediate results after exam submission. It uses Java for both front-end interaction and back-end logic, handling user input, question display, answer submission, and result calculation.
+Key Features:
+User-friendly interface to take quizzes.
+Timed exam with a countdown.
+Multiple-choice questions with instant result display.
+Back-end logic for score calculation and answer validation.
